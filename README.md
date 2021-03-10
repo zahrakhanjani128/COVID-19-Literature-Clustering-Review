@@ -12,3 +12,6 @@ Hi everyone, My name is Zahra, and I am an enthusiastic data scientist eager to 
     url = {\url{https://www.kaggle.com/maksimeren/covid-19-literature-clustering}},
     howpublished = {TBA}
 }
+
+# NLP_for_DisasterTweets
+This file contains what I did regarding a Kaggle project with the name of: (Natural Language Processing with Disaster Tweets). This is a binary text classification. You need to predict which tweet talks about a real disaster and which one is about a fake disaster or other things (except a real disaster). I used different preprocessing methods as well as modellings for the text data. Hope to enjoy this file. 
